@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abiye Omiete
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning MERN
+- 🌱 MERN Stack Developer.
 - 📫 How to reach me @abiyerowland@gmail.com
 - ⚡ Fun fact: I Love Music && Good Food.
 
