@@ -1,11 +1,17 @@
-👋 Hi, I’m Abiye Omiete
-👀 I’m a Full Stack Developer
-🌱 MERN Stack Developer
-📫 Reach me at abiyerowland@gmail.com
-⚡ Fun fact: I love music and good food
-✨ I'm open to collaborating and Learning
+## 👋 Hi, I'm Abiye Desire Omiete.
 
-<!---
-Kr3artive/Kr3artive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Full Stack Developer | MERN Stack Developer
+
+🌱 I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. My goal is to create seamless, efficient, and scalable web applications.
+
+### 📫 Reach Me
+
+- Email: [abiyerowland@gmail.com](mailto:abiyerowland@gmail.com)
+  
+### ⚡ Fun Fact
+
+- I have a passion for **Music** and **Good Food** These are two things that fuel my creativity and energy.
+  
+### ✨ Open to Collaboration and Learning
+
+I’m always eager to collaborate on interesting projects, learn from others, and continue growing as a developer.
