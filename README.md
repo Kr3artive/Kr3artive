@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN Stack Developer
 
-🌱 I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. My goal is to create seamless, efficient, and scalable web applications.
+🌱 I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**,**Next.js** and **Node.js**. My goal is to create seamless, efficient, and scalable web applications.
 
 ### 📫 Reach Me
 
