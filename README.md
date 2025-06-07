@@ -24,7 +24,7 @@ My goal is to create **seamless**, **efficient**, and **scalable** digital exper
 
 ## ⚡ Fun Fact
 
-🎵 I have a passion for **Music** and 🍜 **Good Food** — two things that constantly fuel my creativity and energy.
+🎵 I have a passion for **Music** and 🍜 **Good Food** — these are two things that constantly fuel my creativity and energy.
 
 ---
 
@@ -41,12 +41,15 @@ I'm always eager to:
 ## 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" />
 </div>
 
@@ -70,7 +73,7 @@ I'm always eager to:
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kr3artive/)
-- [Twitter](https://twitter.com/kr3artive)
-- [Portfolio](https://kr3artive.dev)
-- 
+- [LinkedIn](https://www.linkedin.com/in/abiye-omiete-b73436303)
+- [Twitter](https://x.com/kr3artive)
+- [Portfolio](https://kr3artive-kr3artives-projects.vercel.app)
+
