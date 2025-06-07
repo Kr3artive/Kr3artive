@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Abiye Desire Omiete.
 
 ### Full Stack Developer | MERN Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kr3artive&label=Profile%20views&color=0e75b6&style=flat" alt="kr3artive" />
+</p>
 
 🌱 I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**, **Next.js** and **Node.js**. My goal is to create seamless, efficient, and scalable web applications.
 
