@@ -1,6 +1,6 @@
 <!-- Header Title -->
-<h1 align="center">👋 Hi, I'm Abiye Desire Omiete</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Specialist</h3>
+# 👋 Hi, I'm Abiye Desire Omiete  
+### Full Stack Developer | MERN Stack Specialist
 
 <!-- Profile Views -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🌱 I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**.  
+I specialize in building web applications using **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**.  
 My goal is to create **seamless**, **efficient**, and **scalable** digital experiences that solve real-world problems.
 
 ---
@@ -24,13 +24,14 @@ My goal is to create **seamless**, **efficient**, and **scalable** digital exper
 
 ## ⚡ Fun Fact
 
-🎵 I have a passion for **Music** and 🍜 **Good Food** — two things that constantly **fuel my creativity and energy**.
+🎵 I have a passion for **Music** and 🍜 **Good Food** — two things that constantly fuel my creativity and energy.
 
 ---
 
 ## 🤝 Collaboration & Learning
 
-🚀 I'm always eager to:
+I'm always eager to:
+
 - Collaborate on exciting **web and open-source projects**
 - Learn from other developers
 - Share what I know to help others grow
@@ -39,15 +40,15 @@ My goal is to create **seamless**, **efficient**, and **scalable** digital exper
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" />
+</div>
 
 ---
 
@@ -69,16 +70,7 @@ My goal is to create **seamless**, **efficient**, and **scalable** digital exper
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kr3artive/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/kr3artive" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kr3artive.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" alt="Portfolio" width="30" height="30" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/kr3artive/)
+- [Twitter](https://twitter.com/kr3artive)
+- [Portfolio](https://kr3artive.dev)
+- 
