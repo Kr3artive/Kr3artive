@@ -57,7 +57,7 @@ I'm always eager to:
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/abiye-omiete-b73436303)
+- [LinkedIn](www.linkedin.com/in/abiye-desire-omiete-b73436303)
 - [Twitter](https://x.com/kr3artive)
 - [Portfolio](https://kr3artive-kr3artives-projects.vercel.app)
 
