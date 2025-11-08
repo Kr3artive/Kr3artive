@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I specialize in building web applications using **Dart**, **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**.  
+I specialize in building web applications using **Dart**, **MongoDB**, **Express.js**, **React.js** and **Node.js**.  
 My goal is to create **seamless**, **efficient**, and **scalable** digital experiences that solve real-world problems.
 
 ---
@@ -48,7 +48,6 @@ I'm always eager to:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" />
