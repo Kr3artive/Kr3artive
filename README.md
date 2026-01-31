@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I specialize in building web applications using **Dart**, **MongoDB**, **Express.js**, **React.js** and **Node.js**.  
+I specialize in building applications using **Dart**, **MongoDB**, **Express.js**, **React.js** and **Node.js**.  
 My goal is to create **seamless**, **efficient**, and **scalable** digital experiences that solve real-world problems.
 
 ---
