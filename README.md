@@ -26,14 +26,6 @@ I build **scalable full-stack applications** with a strong focus on:
 
 ---
 
-## 🧠 What I’m Currently Working On
-
-- 🔥 Building a **Job Application Tracking System (ATS)**
-- ⚙️ Designing **scalable backend APIs with NestJS**
-- 📈 Creating **analytics dashboards & admin systems**
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -56,24 +48,6 @@ I build **scalable full-stack applications** with a strong focus on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr3artive&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 **ATS System (Hiring Dashboard)**  
-- Role-based filtering  
-- Applicant tracking pipeline  
-- Analytics & conversion metrics  
-
-🔹 **Logistics Platform UI**  
-- Modern UI/UX  
-- Responsive design  
-- Optimized performance  
-
-🔹 **Delivery Service Platform**  
-- Real-time tracking concepts  
-- Clean architecture  
 
 ---
 
