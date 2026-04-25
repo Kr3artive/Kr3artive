@@ -1,66 +1,103 @@
-<!-- Header Title -->
-# 👋 Hi, I'm Abiye Desire Omiete  
-### Full Stack Developer | MERN Stack Specialist
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Abiye Desire Samuel Omiete</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN & Scalable Systems</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Apps;Backend+Systems+%7C+APIs+%7C+Dashboards;Open+to+Collaboration+🚀&center=true&width=500&height=45">
+</p>
 
 <!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kr3artive&label=Profile%20views&color=0e75b6&style=flat" alt="kr3artive" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kr3artive&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I specialize in building applications using **Dart**, **MongoDB**, **Express.js**, **Nest.js**, **Next.js**, **React.js** and **Node.js**.  
-My goal is to create **seamless**, **efficient**, and **scalable** digital experiences that solve real-world problems.
+I build **scalable full-stack applications** with a strong focus on:
+
+- ⚡ Performance & Optimization  
+- 🔐 Secure Backend Architectures  
+- 📊 Data-driven systems & dashboards  
+
+💡 I enjoy turning complex problems into **simple, efficient solutions**.
 
 ---
 
-## ✉️ Reach Me
+## 🧠 What I’m Currently Working On
 
-- 📧 Email: [abiyerowland@gmail.com](mailto:abiyerowland@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-🎵 I have a passion for **Music** and 🍜 **Good Food** — these are two things that constantly fuel my creativity and energy.
-
----
-
-## 🤝 Collaboration & Learning
-
-I'm always eager to:
-
-- Collaborate on exciting **web and open-source projects**
-- Learn from other developers
-- Share what I know to help others grow
+- 🔥 Building a **Job Application Tracking System (ATS)**
+- ⚙️ Designing **scalable backend APIs with NestJS**
+- 📈 Creating **analytics dashboards & admin systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,nextjs,nestjs,tailwind,wordpress,dart" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/abiye-desire-omiete-b73436303)
-- [Twitter](https://x.com/kr3artive)
-- [Portfolio](https://kr3artive-kr3artives-projects.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kr3artive&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr3artive&theme=tokyonight" />
+</p>
 
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr3artive&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **ATS System (Hiring Dashboard)**  
+- Role-based filtering  
+- Applicant tracking pipeline  
+- Analytics & conversion metrics  
+
+🔹 **Logistics Platform UI**  
+- Modern UI/UX  
+- Responsive design  
+- Optimized performance  
+
+🔹 **Delivery Service Platform**  
+- Real-time tracking concepts  
+- Clean architecture  
+
+---
+
+## 🤝 Collaboration & Learning
+
+I’m open to:
+
+- 🚀 Startup collaborations  
+- 🌍 Open-source contributions  
+- 🧠 Backend architecture discussions  
+
+---
+
+## ✉️ Contact Me
+
+<p align="center">
+  <a href="mailto:abiyerowland@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/abiye-desire-omiete-b73436303">LinkedIn</a> |
+  <a href="https://x.com/kr3artive">Twitter</a> |
+  <a href="https://kr3artive-kr3artives-projects.vercel.app">Portfolio</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🎵 Music + 🍜 Good food = My coding fuel  
